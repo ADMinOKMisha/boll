@@ -5,6 +5,6 @@ y=input("               |")
 print("                _______________________________") 
 x= y[:4]
 if x==("когда"):
-  os.system("cd otvet && python ccc.py") 
+  os.system("python ccc.py") 
 else:
-  os.system("cd otvet && python ttt.py")
+  os.system("python .ttt.py")
